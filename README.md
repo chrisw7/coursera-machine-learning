@@ -1,2 +1,2 @@
 # ML-coursera
-Assignment code for the from Stanford University Machine Learning course offered by Coursera 
+Machine Learning assignment code for the Stanford University Machine Learning course offered through Coursera
