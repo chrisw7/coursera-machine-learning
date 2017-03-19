@@ -4,7 +4,7 @@ Machine Learning assignment code for the [Stanford University Machine Learning c
 ## Topics covered
 - [x] Single & Multivariate Regression
 - [x] Logistic Regression
-- [ ] Neural Networks
+- [x] Neural Networks
 - [ ] Machine Learning System Design
 - [ ] Support Vector Machines (SVMs)
 - [ ] Unsupervised Learning (k-means)
