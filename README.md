@@ -5,9 +5,9 @@ Machine Learning assignment code for the [Stanford University Machine Learning c
 - [x] Single & Multivariate Regression
 - [x] Logistic Regression
 - [x] Neural Networks
-- [ ] Machine Learning System Design
-- [ ] Support Vector Machines (SVMs)
-- [ ] Unsupervised Learning (k-means)
-- [ ] Anomoly Detection
+- [x] Machine Learning System Design
+- [x] Support Vector Machines (SVMs)
+- [x] Unsupervised Learning (k-means)
+- [x] Anomoly Detection
 - [ ] Large Scale Machine Learning
 - [ ] Photo OCR (example)
