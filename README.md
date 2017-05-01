@@ -9,5 +9,5 @@ Machine Learning assignment code for the [Stanford University Machine Learning c
 - [x] Support Vector Machines (SVMs)
 - [x] Unsupervised Learning (k-means)
 - [x] Anomoly Detection
-- [ ] Large Scale Machine Learning
-- [ ] Photo OCR (example)
+- [X] Large Scale Machine Learning
+- [X] Photo OCR (example)
